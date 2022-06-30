@@ -37,13 +37,7 @@ Deleted item
 
 ## Live Site
 
-This project cannot be used wtih GitHub Pages as it depends on NodeJS to run. To use the project, please clone the github repo. Once cloned, please perform the following tasks in your project folder at the GitBash prompt:
-
-* npm init -y
-* npm install express
-* npm install jest --save-dev
-
-You should now be able to run npm start to test the project.
+[Note Taker Live on Heroku](https://infinite-shore-80517.herokuapp.com/)
 
 ---
 
