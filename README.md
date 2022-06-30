@@ -22,6 +22,17 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Screenshots
 
+Main screen  
+![main screen](public/images/screenshot-desktop-main.jpg)
+
+Notes screen
+![notes screen](public/images/screenshot-notes-example.jpg)
+
+Deleted item
+![deleted note](public/images/screenshot-delete-example.jpg)
+
+## Live Site
+
 ## Summary/Languages
 
 ## Acknowledgements
