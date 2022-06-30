@@ -20,6 +20,8 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page  
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column  
 
+---
+
 ## Screenshots
 
 Main screen  
@@ -31,9 +33,19 @@ Notes screen
 Deleted item
 ![deleted note](public/images/screenshot-delete-example.jpg)
 
+---
+
 ## Live Site
 
-[Live Note Taker App](https://joebarbone.github.io/c-w11-note-taker/)
+No live site can be demoed for this project. To use the project, please clone the github repo. Once cloned, please perform the following tasks in your project folder:
+
+* npm init -y
+* npm install express
+* npm install jest --save-dev
+
+You should now be able to run npm start to test the project.
+
+---
 
 ## Summary/Languages
 
@@ -44,6 +56,8 @@ The Note Taker App front-end code was provided to us as a starting point. We wer
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![node js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 ## Acknowledgements
 
