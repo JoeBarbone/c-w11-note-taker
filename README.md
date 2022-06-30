@@ -37,7 +37,7 @@ Deleted item
 
 ## Live Site
 
-No live site can be demoed for this project. To use the project, please clone the github repo. Once cloned, please perform the following tasks in your project folder:
+This project cannot be used wtih GitHub Pages as it depends on NodeJS to run. To use the project, please clone the github repo. Once cloned, please perform the following tasks in your project folder at the GitBash prompt:
 
 * npm init -y
 * npm install express
